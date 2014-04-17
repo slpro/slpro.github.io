@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Jaime Patarroyo -- Star Comander -- @japg
 
 # THANKS
 
